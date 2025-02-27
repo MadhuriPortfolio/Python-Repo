@@ -151,8 +151,10 @@ df['grade'] = df['score'].apply(assign_grade)
 </a>
 </p>
 
-# Using another data set GDP
-Number of countries per **Region
+# Using another data set GDP Down load the file:  
+[GDP(nominal)perCapita.csv](https://github.com/your-username/your-repository/raw/main/GDP(nominal)perCapita.csv)   
+
+**Number of countries per Region**  
 <p align**="left">  
 <a href="https://your-link.com">   
 <img src="https://github.com/user-attachments/assets/40641ca5-df8b-4f2f-ab1d-ad2389a016c9" alt="Description of the Image" width="700" height="300" />  
